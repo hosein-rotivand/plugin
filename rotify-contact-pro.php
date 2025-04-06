@@ -1,11 +1,18 @@
 <?php
 /*
 Plugin Name: Rotify Contact Pro
-Description: A professional plugin to add WhatsApp and Telegram order buttons with customizable shortcodes.
-Version: 1.1
+Plugin URI: https://www.rotify.ir
+Description: پللاگین ثبت سفارش در واتساپ و تلگرام 
 Author: hosein rotivand
-License: GPL-2.0+
+Version: 1.0.0
+Author URI: https://rotify.ir/hosein-rotivand-ghiasvand/
+Text Domain: wpyar_panel
+Domain Path: /languages
+Requires at least: 5.8.3
+Requires PHP: 7.4
 */
+
+
 
 // جلوگیری از دسترسی مستقیم
 defined('ABSPATH') or die('No direct access allowed!');
