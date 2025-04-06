@@ -7,9 +7,6 @@ Author: hosein rotivand
 Version: 1.0.0
 Author URI: https://rotify.ir/hosein-rotivand-ghiasvand/
 Text Domain: Rotify_Contact_Pro
-Domain Path: /languages
-Requires at least: 5.8.3
-Requires PHP: 7.4
 */
 
 
